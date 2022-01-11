@@ -13,3 +13,23 @@ This Application is built on top of Effect Network, so there is a globle workfor
 ![How it works](how_it_works.gif)
 
 # Application Screenshots
+
+## Landing Page
+
+![](./ss/landing.png)
+
+## Dashboard
+
+![](./ss/dash.png)
+
+## Create new Research Study
+
+![](./ss/createSurvey.png)
+
+## Workforce Template
+
+![](./ss/effectforce.png)
+
+## Results
+
+![](./ss/results.png)
